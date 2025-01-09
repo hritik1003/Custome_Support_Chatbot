@@ -1,0 +1,7 @@
+streamlit
+langchain-core
+langchain-community
+langchain-huggingface
+python-dotenv
+faiss-cpu
+chardet
